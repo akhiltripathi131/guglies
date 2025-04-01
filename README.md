@@ -15,7 +15,7 @@ This is a business website created using HTML, CSS, and JavaScript.
    bash
    git clone https://github.com/your-username/your-repository.git
    
-2. Open index.html in a web browser.
+2. Open guglies.in in a web browser.
 
 ## Credits
 - Icons from [Icons8](https://icons8.com)
